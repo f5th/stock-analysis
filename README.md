@@ -9,7 +9,8 @@ Using images and examples of your code, compare the stock performance between 20
 
 ### Performance
 
-The fact that new items were introduced, such as arrays within the code, the execution time was not visibly affected, as a matter of fact, the speed was sligtly faster, but would be hard to notice without a timer.
+The fact that new items were introduced, such as arrays within the code, the execution time was not visibly affected, as a matter of fact, the speed was sligtly faster, but would be hard to notice without a timer. Both **[2017](https://github.com/f5th/stock-analysis/blob/b508f2b17b2f68ac499e195026496dce825b68ba/Resources/VBA_Challenge_2017.png)** and [2018](https://github.com/f5th/stock-analysis/blob/b508f2b17b2f68ac499e195026496dce825b68ba/Resources/VBA_Challenge_2018.png) have similar execution time.
+
 
 ## Summary: In a summary statement, address the following questions.
 
